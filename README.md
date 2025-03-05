@@ -58,7 +58,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-You can now access the application at http://127.0.0.1:8000/.  
 
 ## Usage  
 Register for an account.  
